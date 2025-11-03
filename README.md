@@ -1,4 +1,4 @@
-# _Code Snippet_
+# _Code Bits_
 A tool for making shareable snippets of your code.
 
 ### 🪄 _Made With_
