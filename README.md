@@ -1,5 +1,7 @@
-# _Code Bits_
-A tool for making shareable snippets of your code.
+# 🖼️ _Code Bits_
+<img width="2560" height="1440" alt="code-snippet" src="https://github.com/user-attachments/assets/961794b1-efa2-4ea4-8b25-12b9209411b2" />
+
+## _A tool for making shareable snippets of your code with code highlight._
 
 ### 🪄 _Made With_
 - React JS
@@ -18,4 +20,3 @@ A tool for making shareable snippets of your code.
 - Copy Image
 - Padding (Resizable)
 
-![image](https://github.com/anupam-kumar-krishnan/Code-Snippet/assets/69143883/7ff6a062-dfad-4331-80a0-36b39e56b424)
